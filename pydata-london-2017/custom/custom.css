@@ -1,0 +1,246 @@
+.reveal pre#smaller
+{
+    font-size: 16pt;
+}
+
+.reveal li#small
+{
+    font-size: 16pt;
+}
+.reveal p#small
+{
+    font-size: 16pt;
+}
+.reveal table.dataframe
+{
+    font-size: 12pt;
+}
+
+.reveal table#twocolumn, tr#twocolumn, td#twocolumn
+{
+    background-color: white;
+}
+
+
+.reveal table#contact, tr#contact, td#contact
+{
+    background-color: white;
+}
+
+.reveal table#contact
+{
+    background-color: white;
+    width:100%;
+    margin-top:325px;
+}
+.reveal p#title
+{
+    position:fixed;
+    font-family: Arial;
+    font-size: 34pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: -1.7px;
+    left:78px;
+    bottom:332px;
+}
+
+.reveal p#event
+{
+    position:fixed;
+    font-family: Arial;
+    font-size: 16pt;
+    letter-spacing: -.05px;
+    color: rgb(87,87,135);
+    left:78px;
+    bottom:136px;
+}
+
+.reveal p#author
+{
+    position:fixed;
+    font-family: Arial;
+    font-size: 16pt;
+    letter-spacing: -.05px;
+    color: rgb(87,87,135);
+    left:78px;
+    bottom:162px;
+}
+
+.reveal p#jobtitle,p#mail,p#twitter,p#github,p#company,p#name, p#location, p#education
+{
+    font-family: Arial;
+    font-size: 16pt;
+    letter-spacing: -.05px;
+    color: rgb(87,87,135);
+}
+
+.reveal p#education:before
+{
+    content: "";
+    display: block;
+    background: url('education_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    vertical-align:middle;
+    margin: 0px 10px 0px 0px;
+}
+.reveal p#name:before
+{
+    content: "";
+    display: block;
+    background: url('name_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    vertical-align:middle;
+    margin: 0px 10px 0px 0px;
+}
+.reveal p#location:before
+{
+    content: "";
+    display: block;
+    background: url('location_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    vertical-align:middle;
+    margin: 0px 10px 0px 0px;
+}
+.reveal p#company:before
+{
+    content: "";
+    display: block;
+    background: url('company_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    vertical-align:middle;
+    margin: 0px 10px 0px 0px;
+}
+.reveal p#jobtitle:before
+{
+    content: "";
+    display: block;
+    background: url('jobtitle_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    vertical-align:middle;
+    margin: 0px 10px 0px 0px;
+}
+
+.reveal p#mail:before
+{
+    content: "";
+    display: block;
+    background: url('mail_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+
+.reveal p#twitter:before
+{
+    content: "";
+    display: block;
+    background: url('twitter_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+.reveal p#github:before
+{
+    content: "";
+    display: block;
+    background: url('github_icon_64x64.png') no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+.reveal p#huge
+{
+    font-family:Arial;
+    font-size:150pt;
+    font-weight:bold;
+}
+
+.reveal b#large
+{
+    font-family:Arial;
+    font-size:60pt;
+    font-weight:bold;
+    line-height:75px;
+}
+
+.reveal b#big
+{
+    font-family:Arial;
+    font-size:36pt;
+    font-weight:bold;
+    line-height:50px;
+}
+
+.reveal b#small
+{
+    font-family:Arial;
+    font-size:16pt;
+    font-weight:normal;
+}
+
+.reveal h1
+{
+    position:relative;
+    font-family: Arial;
+    font-size: 36pt;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.reveal h2
+{
+    font-family: Arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 32pt;
+}
+
+.reveal h3
+{
+    font-family: Arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 28pt;
+}
+
+.reveal p
+{
+    font-family: Arial;
+    font-size: 24pt;
+}
+
+.reveal li
+{
+    font-family: Arial;
+    font-size: 24pt;
+}
+
+.reveal pre
+{
+    font-size: 16pt;
+}
